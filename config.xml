@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.coronakill.rex"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Corona Kill</name>
+
+  <description>
+      La pandemia se ha expandido por el mundo, debes intentar sobrevivir.
+  </description>
+
+  <author href="https://www.facebook.com/Rexorx" email="orlandohsanchez@gmail.com">
+      Rexorx
+  </author>
+ <icon src="icon.png" />
+</widget>
